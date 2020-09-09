@@ -6,7 +6,7 @@
 
 >I love to build applications and code.Web Apps.Data Science.Data Engineering. </br>
 > Completed Bachelor's in Computer Engineering and Master's in Analytics. </br>
->My goal is to be a Data Engineering and build Data Pipelines and Machine Learning models into Production.</br>
+>My goal is to be a great coder and build models and applications</br>
 >I am a Lifelong Learner.
 
 
